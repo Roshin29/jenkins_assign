@@ -1,2 +1,4 @@
-FROM rose29/tomcat
+FROM rose29/apch_inst
 ADD . /var/www/html
+
+
